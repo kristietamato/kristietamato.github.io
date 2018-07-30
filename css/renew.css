@@ -10,7 +10,7 @@ h6 a:hover,
 .comment-reply-link:hover,
 .x-comment-author a:hover,
 .x-recent-posts a:hover .h-recent-posts {
-  color: #f1ba63;
+  color: #ed0101;
 }
 a:hover,
 #reply-title small a:hover {
@@ -82,7 +82,7 @@ li.bypostauthor > article.comment {
 }
 .x-btn-navbar,
 .x-btn-navbar:hover {
-  color: #ffffff;
+  color: #ed0101;
 }
 .x-navbar .desktop .sub-menu li:before,
 .x-navbar .desktop .sub-menu li:after {
@@ -102,7 +102,7 @@ li.bypostauthor > article.comment {
 .x-navbar .desktop .x-nav > li > a:hover > span,
 .x-navbar .desktop .x-nav > li.x-active > a > span,
 .x-navbar .desktop .x-nav > li.current-menu-item > a > span {
-  box-shadow: 0 2px 0 0 #444444;
+  box-shadow: 0 2px 0 0 #ed0101;
 }
 .x-navbar .desktop .x-nav > li > a {
   height: 90px;
@@ -301,7 +301,7 @@ blockquote {
 }
 .x-brand:hover,
 .x-brand:focus {
-  color: #444444;
+  color: #ed0101;
 }
 .x-navbar .x-nav-wrap .x-nav > li > a {
   font-family: "Lato", sans-serif;
